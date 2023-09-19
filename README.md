@@ -14,6 +14,6 @@
 *[Code: Skil-Task2]*
 
 **3.3 ~Create an empty list, ask the user to give numbers, stops when the number is 0, and print the max value**
-*[Code: Skil-Task1]*
+*[Code: Skil-Task3]*
 
 *Thanks 4 see this.. If you are a more advanced connoisseur of the language... It would be very helpful if you evaluated my code and see how I'm doing~!&*
